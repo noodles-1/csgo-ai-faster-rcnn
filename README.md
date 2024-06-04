@@ -1,4 +1,4 @@
-# R-CNN and Faster R-CNN Vehicle Detection Models for CSGO AI
+# Faster R-CNN Vehicle Detection Model for CSGO AI
 Used as a basis for comparative analysis in conjunction with the vehicle detection model found on [CSGO-System](https://github.com/noodles-1/csgo-system).
 
 Runs on Windows 11 implemented with [PyTorch](https://pytorch.org).
