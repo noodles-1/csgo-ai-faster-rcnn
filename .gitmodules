@@ -1,3 +1,0 @@
-[submodule "faster-r-cnn"]
-	path = faster-r-cnn
-	url = https://github.com/sovit-123/fasterrcnn-pytorch-training-pipeline
